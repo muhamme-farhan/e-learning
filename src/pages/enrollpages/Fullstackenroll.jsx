@@ -1403,4 +1403,5 @@ const FullStackLearningPage = () => {
   );
 };
 
-export default FullStackLearningPage;
+export default FullStackLearningPage
+;
